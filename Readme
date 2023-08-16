@@ -1,0 +1,7 @@
+Data acquisition: https://physionet.org/content/hd-semg/1.0.0/. (Note:we just use pr_dataset)
+
+You can install some of the required package from the requirements.txt
+
+Run:
+1.get_feature.py to obtain the features.
+2.main_forest to obtain the results.

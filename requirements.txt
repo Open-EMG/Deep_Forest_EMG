@@ -1,0 +1,5 @@
+deep-forest==0.1.7
+scikit-learn==1.2.2
+scipy==1.10.1
+wfdb==4.1.2
+
