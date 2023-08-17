@@ -1,3 +1,7 @@
+This code package is based on the methods in our paper: "Optimizing the Feature Set and Electrode Configuration of High-Density Electromyogram via Interpretable Deep Forest", published on Biomedical Signal Processing and Control.
+
+If it is useful, please cite our paper.
+
 Data acquisition: https://physionet.org/content/hd-semg/1.0.0/. (Note:we just use pr_dataset)
 
 You can install some of the required package from the requirements.txt
